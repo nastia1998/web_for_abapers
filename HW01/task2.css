@@ -1,0 +1,30 @@
+.main {
+    border-style: solid;
+    border-width: 5px;
+    width: 500px;
+    height: 500px;
+}
+
+.figure {
+    width: 300px;
+    height: 300px;
+}
+
+.one {
+    background-color: rgba(107, 52, 196, 0.815);
+}
+
+.two {
+    background-color: rgb(20, 198, 230);
+    z-index: 1;
+    position: relative;
+    left: 100px;
+    top: -200px;
+}
+
+.three {
+    background-color: rgb(255, 0, 179);
+    position: relative;
+    left: 200px;
+    top: -400px;
+}
